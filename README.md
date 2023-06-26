@@ -4,9 +4,11 @@
 
 <h2>Project Summary</h2> 
 This is a brief walkthrough how to install and use osTicketing System for an organisation.
-First step: Create a Virtual Machine (VM) on Azure. For my case I used Windows 10 Pro.
-Second Step: Access the VM on through RDP client on your own computer.
-
+<p>First step: Create a Virtual Machine (VM) on Azure. For my case I used Windows 10 Pro.</p>
+<p>Second Step: Access the VM on through RDP client on your own computer.</p>
+<p>Third Step: Install all the must-have software before osTicket can work. These include:
+-
+</p>
 
 
 
