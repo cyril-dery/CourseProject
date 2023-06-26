@@ -1,6 +1,9 @@
 # CourseProject
 
 <h1> How to Install and Work on osTicketing System on Azure</h1>
+<p align="left">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
 
 <h2>Project Summary</h2> 
 This is a brief walkthrough how to install and use osTicketing System for an organisation.
