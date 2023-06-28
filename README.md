@@ -60,20 +60,20 @@ This is a brief walkthrough how to install and use osTicketing System for an org
 
 </p>
 
--Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
--Restart the  server in IIS.
--Go sites and click on osTicket on the left side of IIS
--On the  right side of  IIS, click on' browse 80'
--it should this message "Thank you for Choosing osTicket' with a list of extension enabled or not.
--Go back to osTicket on the left of IIS 
--Double click on PHP Manager to enable extensions highlight in osTicket 'Thank you' page
--Refresh osTicket in the browser to see the changes
--Go drive C, inetpub, then wwwroot and open osTicket folder
--Go to Include folder of  osTicket 
--Rename 'ost-sampleconfig.php' to 'ost-config.php'
--Right click 'ost-config.php' and go to Properties, then to Security and click on Advance 
--Disable Inheritance and open access to  'Everyone' to make changes
 
+<p>-Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”</p>
+<p>-Restart the  server in IIS.</p>
+<p>-Go sites and click on osTicket on the left side of IIS</p>
+<p>-On the  right side of  IIS, click on' browse 80'</p>
+<p>-it should this message "Thank you for Choosing osTicket' with a list of extension enabled or not.</p>
+<p>-Go back to osTicket on the left of IIS </p>
+<p>-Double click on PHP Manager to enable extensions highlight in osTicket 'Thank you' page</p>
+<p>-Refresh osTicket in the browser to see the changes</p>
+<p>-Go drive C, inetpub, then wwwroot and open osTicket folder</p>
+<p>-Go to Include folder of  osTicket </p>
+<p>-Rename 'ost-sampleconfig.php' to 'ost-config.php'</p>
+<p>-Right click 'ost-config.php' and go to Properties, then to Security and click on Advance </p>
+<p>-Disable Inheritance and open access to  'Everyone' to make changes</p>
 
 Demonstration (4 points)
 Project must have a thorough demonstration section, illustrating the use of the project.
