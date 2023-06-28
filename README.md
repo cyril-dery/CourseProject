@@ -68,6 +68,12 @@ This is a brief walkthrough how to install and use osTicketing System for an org
 -Go back to osTicket on the left of IIS 
 -Double click on PHP Manager to enable extensions highlight in osTicket 'Thank you' page
 -Refresh osTicket in the browser to see the changes
+-Go drive C, inetpub, then wwwroot and open osTicket folder
+-Go to Include folder of  osTicket 
+-Rename 'ost-sampleconfig.php' to 'ost-config.php'
+-Right click 'ost-config.php' and go to Properties, then to Security and click on Advance 
+-Disable Inheritance and open access to  'Everyone' to make changes
+
 
 Demonstration (4 points)
 Project must have a thorough demonstration section, illustrating the use of the project.
