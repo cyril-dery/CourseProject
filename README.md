@@ -37,18 +37,10 @@ This is a brief walkthrough how to install and use osTicketing System for an org
   <img src="https://i.imgur.com/9RjVJF1.png" alt="choose password"/>
 </p>
   
+-Open IIS in Adminnistrator mode and register PHP.
 
 
 
-
-Project must have a summary section, that outlines and discusses the following:
-Brief description of what the project is (tutorial, walkthrough, technology implementation, etc.)
-Languages used, if any (PowerShell, etc.)
-Environments used, if any (Azure, Windows 10, Windows Server, etc.)
-Technology/Applications/Services used if any (osTicket, Azure Storage, Azure Virtual Machines)
-
-Media (Images and/or Video) (3 points)
-Project must contain an appropriate amount of images and/or video, demonstrating the implementation
 
 Demonstration (4 points)
 Project must have a thorough demonstration section, illustrating the use of the project.
