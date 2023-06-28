@@ -16,7 +16,23 @@ This is a brief walkthrough how to install and use osTicketing System for an org
 -Download and Install PHP Manager for ISS 
 -downnload and install Rewrite Module
 -create a folder in your hardrive C of your computer  and name it 'PHP'. as in (C:\PHP)
--downlo
+-download PHP 7.3.8 and extract its contents into PHP folder.
+-Download and install VC_redist.x86.exe
+-Download MySQL 5.5.62 and install it as follows:
+<p align="left">
+  -Choose Typical install option
+  <img src="https://i.imgur.com/SEZoDMZ.png" alt="Typical Installation option"/>
+</p>
+<p align="left">
+  -Launch after installation
+
+  <img src="https://i.imgur.com/zvzIDYa.png" alt="Launch after installation"/>
+</p>
+<p align="left">
+  -Choose a password for the 'root' name
+  <img src="https://i.imgur.com/9RjVJF1.png" alt="choose password"/>
+</p>
+  
 
 
 
