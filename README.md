@@ -75,4 +75,4 @@ This is a brief walkthrough how to install and use osTicketing System for an org
 <p>create database called 'osTicket'<p>
 <p>continue setup osTicket on the browser<p>
 
-<h
+
