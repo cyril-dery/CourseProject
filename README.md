@@ -32,11 +32,11 @@ This is a brief walkthrough how to install and use osTicketing System for an org
 <p><img src="https://i.imgur.com/wI0yY2q.png" alt="Standard configuration"/></p>
 
 <p align="left">-Choose a password for the 'root' name</p>
-<p><img align="left" src="https://i.imgur.com/9RjVJF1.png" alt="choose password"><p/>
+<p><img align="left" src="https://i.imgur.com/9RjVJF1.png" alt="choose password"></p>
 
 
 
-<p> <img src="https://i.imgur.com/Iez8cnW.png" alt="IIS in Adminnistrator"/> <p/>
+<p> <img src="https://i.imgur.com/Iez8cnW.png" alt="IIS in Adminnistrator"/> </p>
 
 <p align="left">
 <img src="https://i.imgur.com/Ko45hhQ.png" alt="IIS Window"/>
@@ -70,14 +70,9 @@ This is a brief walkthrough how to install and use osTicketing System for an org
 <p>-Right click 'ost-config.php' and go to Properties, then to Security and click on Advance </p>
 <p>-Disable Inheritance and open access to  'Everyone' to make changes</p>
 
-Download and install HeidiSQL
-Open HeidiSQL and password created for 'root' for SQL 
+<p>Download and install HeidiSQL<p>
+<p>Open HeidiSQL and enter password created for 'root' for SQL <p>
+<p>create database called 'osTicket'<p>
+<p>continue setup osTicket on the browser<p>
 
-<h3>Download and install HeidiSQL.<h3/>
-<p>Open Heidi SQL<p/>
-<p>Create a new session, and enter password created for 'root'<p/>
-<p>Connect to the session<p/>
-<p>Create a database called “osTicket”<p/>
-
-Download and install
-
+<h
