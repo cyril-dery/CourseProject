@@ -64,7 +64,10 @@ This is a brief walkthrough how to install and use osTicketing System for an org
 -Restart the  server in IIS.
 -Go sites and click on osTicket on the left side of IIS
 -On the  right side of  IIS, click on' browse 80'
-
+-it should this message "Thank you for Choosing osTicket' with a list of extension enabled or not.
+-Go back to osTicket on the left of IIS 
+-Double click on PHP Manager to enable extensions highlight in osTicket 'Thank you' page
+-Refresh osTicket in the browser to see the changes
 
 Demonstration (4 points)
 Project must have a thorough demonstration section, illustrating the use of the project.
