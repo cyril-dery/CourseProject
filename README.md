@@ -75,11 +75,12 @@ This is a brief walkthrough how to install and use osTicketing System for an org
 <p>create database called 'osTicket'<p>
 <p>continue setup osTicket on the browseras shown below<p>
 <p>
-<img src="https://i.imgur.com/W5eBoIr.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/W5eBoIr.png" height="80%" width="80%"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/vmsIVLt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vmsIVLt.png" height="80%" width="80%" />
 </p>
-
+<p>after seeing the above picture, you have reset permissions on ost-config.php file, located in osTicket folder</p>
+<p>change permissions to 'Read only" under Security.</p>
 
