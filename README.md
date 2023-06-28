@@ -51,6 +51,16 @@ This is a brief walkthrough how to install and use osTicketing System for an org
  <img src="https://i.imgur.com/dJyAp2Q.png" alt="registering PHP"/>
 </p>
 
+-IIS Window restart the server at the extreme right side.
+-Download and install osTicket 1.15.8
+<p align="left">
+-Extract and copy the “upload” folder to c:\inetpub\wwwroot
+<img src="https://i.imgur.com/q6cGIVe.png" alt="registering PHP"/>
+<img src="https://i.imgur.com/Tou7Gfl.png" alt="registering PHP"/>
+
+</p>
+
+-Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
 
 Demonstration (4 points)
