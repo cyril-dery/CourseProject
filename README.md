@@ -13,52 +13,47 @@ This is a brief walkthrough how to install and use osTicketing System for an org
 <p align="left">
 <img src="https://i.imgur.com/RsYPw50.png" alt="Window Features"/>
 </p>
--Download and Install PHP Manager for ISS 
--downnload and install Rewrite Module
--create a folder in your hardrive C of your computer  and name it 'PHP'. as in (C:\PHP)
--download PHP 7.3.8 and extract its contents into PHP folder.
--Download and install VC_redist.x86.exe
--Download MySQL 5.5.62 and install it as follows:
-<p align="left">
-  -Choose Typical install option
-  <img src="https://i.imgur.com/SEZoDMZ.png" alt="Typical Installation option"/>
+<p>-Download and Install PHP Manager for ISS <p/>
+<p>-downnload and install Rewrite Module<p/>
+<p>-create a folder in your hardrive C of your computer  and name it 'PHP'. as in (C:\PHP)<p/>
+<p>-download PHP 7.3.8 and extract its contents into PHP folder.<p/>
+<p>-Download and install VC_redist.x86.exe<p/>
+<p>-Download MySQL 5.5.62 and install it as follows:<p/>
+
+<p> -Choose Typical install option<p/>
+<p><img src="https://i.imgur.com/SEZoDMZ.png" alt="Typical Installation option"/><p/>
 </p>
-<p align="left">
-  Launch after installation
+
+<p>Launch after installation<p/>
   <img src="https://i.imgur.com/zvzIDYa.png" />
 </p>
-<p align="left">
-  -choosing  Standard configuration
+<p align="left">-choosing  Standard configuration</p>
 
-  <img src="https://i.imgur.com/wI0yY2q.png" alt="Standard configuration"/>
-</p>
+<p><img src="https://i.imgur.com/wI0yY2q.png" alt="Standard configuration"/></p>
+
+<p align="left">-Choose a password for the 'root' name</p>
+<p><img align="left" src="https://i.imgur.com/9RjVJF1.png" alt="choose password"><p/>
+
+
+
+<p> <img src="https://i.imgur.com/Iez8cnW.png" alt="IIS in Adminnistrator"/> <p/>
+
 <p align="left">
-  -Choose a password for the 'root' name
-  <img src="https://i.imgur.com/9RjVJF1.png" alt="choose password"/>
+<img src="https://i.imgur.com/Ko45hhQ.png" alt="IIS Window"/>
 </p>
 <p align="left">
   
--Open IIS in Adminnistrator mode and register PHP.
- <img src="https://i.imgur.com/Iez8cnW.png" alt="IIS in Adminnistrator"/>
-</p>
-<p align="left">
-
- <img src="https://i.imgur.com/Ko45hhQ.png" alt="IIS Window"/>
-</p>
-<p align="left">
-  
-- register PHP.
+- register PHP Manager.
  <img src="https://i.imgur.com/dJyAp2Q.png" alt="registering PHP"/>
 </p>
 
--IIS Window restart the server at the extreme right side.
--Download and install osTicket 1.15.8
+<p align="left">-IIS Window restart the server at the extreme right side.</p>
+<p>-Download and install osTicket 1.15.8</p>
 <p align="left">
--Extract and copy the “upload” folder to c:\inetpub\wwwroot
-<img  src="https://i.imgur.com/q6cGIVe.png" alt="registering PHP"/>
+-Extract and copy the “upload” folder to c:\inetpub\wwwroot</p>
+<img align="left" src="https://i.imgur.com/q6cGIVe.png" alt="registering PHP"/>
 <img width =600 height=300 src="https://i.imgur.com/Tou7Gfl.png" alt="registering PHP"/>
 
-</p>
 
 
 <p>-Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”</p>
