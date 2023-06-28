@@ -73,6 +73,13 @@ This is a brief walkthrough how to install and use osTicketing System for an org
 <p>Download and install HeidiSQL<p>
 <p>Open HeidiSQL and enter password created for 'root' for SQL <p>
 <p>create database called 'osTicket'<p>
-<p>continue setup osTicket on the browser<p>
+<p>continue setup osTicket on the browseras shown below<p>
+<p>
+<img src="https://i.imgur.com/W5eBoIr.png" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/vmsIVLt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
