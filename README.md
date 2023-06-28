@@ -70,6 +70,12 @@ This is a brief walkthrough how to install and use osTicketing System for an org
 <p>-Right click 'ost-config.php' and go to Properties, then to Security and click on Advance </p>
 <p>-Disable Inheritance and open access to  'Everyone' to make changes</p>
 
+<h3>Download and install HeidiSQL.<h3/>
+<p>Open Heidi SQL<p/>
+<p>Create a new session, and enter password created for 'root'<p/>
+<p>Connect to the session<p/>
+<p>Create a database called “osTicket”<p/>
+
 Demonstration (4 points)
 Project must have a thorough demonstration section, illustrating the use of the project.
 
