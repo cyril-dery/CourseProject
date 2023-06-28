@@ -9,12 +9,14 @@
 This is a brief walkthrough how to install and use osTicketing System for an organisation.
 <h3>First step: Create a Virtual Machine (VM) on Azure. For my case I used Windows 10 Pro.</h3>
 <h3>Second Step: Access the VM on through RDP client on your own computer.</h3>
-<h3>hird Step: Install all the must-have software before osTicket can work. Before the installation,you need to turn on some features of Windows. You can find them through Control Panel\Programs and Features\Turn Windows Features on or off. Check Internet Informations, World Wide Web Services, CGI and Common HTTP Features. See the picture below</h3>
+<h3>Third Step: Install all the must-have software before osTicket can work. Before the installation,you need to turn on some features of Windows. You can find them through Control Panel\Programs and Features\Turn Windows Features on or off. Check Internet Informations, World Wide Web Services, CGI and Common HTTP Features. See the picture below</h3>
 <p align="left">
 <img src="https://i.imgur.com/RsYPw50.png" alt="Window Features"/>
 </p>
-- PHP Manager
-</p>
+-Download and Install PHP Manager for ISS 
+-downnload and install Rewrite Module
+-create a folder in your hardrive C of your computer  and name it 'PHP'. as in (C:\PHP)
+-downlo
 
 
 
