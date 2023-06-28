@@ -24,9 +24,13 @@ This is a brief walkthrough how to install and use osTicketing System for an org
   <img src="https://i.imgur.com/SEZoDMZ.png" alt="Typical Installation option"/>
 </p>
 <p align="left">
-  -Launch after installation
+  Launch after installation
+  <img src="https://i.imgur.com/zvzIDYa.png" />
+</p>
+<p align="left">
+  -choosing  Standard configuration
 
-  <img src="https://i.imgur.com/zvzIDYa.png" alt="Launch after installation"/>
+  <img src="https://i.imgur.com/wI0yY2q.png" alt="Standard configuration"/>
 </p>
 <p align="left">
   -Choose a password for the 'root' name
