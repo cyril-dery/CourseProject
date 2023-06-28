@@ -61,6 +61,9 @@ This is a brief walkthrough how to install and use osTicketing System for an org
 </p>
 
 -Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+-Restart the  server in IIS.
+-Go sites and click on osTicket on the left side of IIS
+-On the  right side of  IIS, click on' browse 80'
 
 
 Demonstration (4 points)
