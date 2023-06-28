@@ -36,9 +36,20 @@ This is a brief walkthrough how to install and use osTicketing System for an org
   -Choose a password for the 'root' name
   <img src="https://i.imgur.com/9RjVJF1.png" alt="choose password"/>
 </p>
+<p align="left">
   
 -Open IIS in Adminnistrator mode and register PHP.
+ <img src="https://i.imgur.com/Iez8cnW.png" alt="IIS in Adminnistrator"/>
+</p>
+<p align="left">
 
+ <img src="https://i.imgur.com/Ko45hhQ.png" alt="IIS Window"/>
+</p>
+<p align="left">
+  
+- register PHP.
+ <img src="https://i.imgur.com/dJyAp2Q.png" alt="registering PHP"/>
+</p>
 
 
 
