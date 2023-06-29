@@ -6,10 +6,10 @@
 </p>
 
 <h2>Project Summary</h2> 
-This is a brief walkthrough how to install and use osTicketing System for an organisation.
-<h3>First step: Create a Virtual Machine (VM) on Azure. For my case I used Windows 10 Pro.</h3>
-<h3>Second Step: Access the VM on through RDP client on your own computer.</h3>
-<h3>Third Step: Install all the must-have software before osTicket can work. Before the installation,you need to turn on some features of Windows. You can find them through Control Panel\Programs and Features\Turn Windows Features on or off. Check Internet Informations, World Wide Web Services, CGI and Common HTTP Features. See the picture below</h3>
+<p>This is a brief walkthrough on how to install and use osTicketing System for an organisation.It includes creating a virtual machine on Azure and using RDP to access it. Then installing all the required software before installing osTicket.Followed by configuration and assigning roles. The last part is answering a mock ticket.</p>
+<p>Create a Virtual Machine (VM) on Azure. For my case I used Windows 10 Pro.</p>
+<p>Access the VM through RDP client on your own computer.</p>
+<p>Install all the must-have software before osTicket can work. Before the installation,you need to turn on some features of Windows. You can find them through Control Panel\Programs and Features\Turn Windows Features on or off. Check Internet Informations, World Wide Web Services, CGI and Common HTTP Features. See the picture below</p>
 <p align="left">
 <img src="https://i.imgur.com/RsYPw50.png" alt="Window Features"/>
 </p>
@@ -88,10 +88,16 @@ This is a brief walkthrough how to install and use osTicketing System for an org
 <img src="https://i.imgur.com/tja6zM6.png" alt="osTicket configuration"/>
 </p>
 
+</p>It is now time to set up Service Level Agreements (SLAs) in osTicket as shown below</p>
+
 <p align="left">
 <img src="https://i.imgur.com/M3aakjZ.png" alt="SLA Configuration"/>
 </p>
-Setting up Service Level Agreements in osTicket
+<p>It is now time to respond to a mock ticket in osTicket. First create the ticket as a user and log in as Help Desk personnel to respond to the ticket as shown below</p>
+<p align="left"> 
+<img src="https://i.imgur.com/zJxPm1k.png" alt="responding to Ticket"/>
+</p>
+
 
 
 
