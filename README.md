@@ -84,6 +84,14 @@ This is a brief walkthrough how to install and use osTicketing System for an org
 <p>after seeing the above picture, you have reset permissions on ost-config.php file, located in osTicket folder</p>
 <p>change permissions to 'Read only" under Security.</p>
 <p>Configure roles as shown below.</p>
+<p align="left">
+<img src="https://i.imgur.com/tja6zM6.png" alt="osTicket configuration"/>
+</p>
+
+<p align="left">
+<img src="https://i.imgur.com/M3aakjZ.png" alt="SLA Configuration"/>
+</p>
+Setting up Service Level Agreements in osTicket
 
 
 
